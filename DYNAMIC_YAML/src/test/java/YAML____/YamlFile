@@ -1,0 +1,8 @@
+appUrl: https://www.google.com
+projectName: Yaml Data Reader
+credentials:
+    child1:
+        child2:
+            child3: demo
+    username: sakshamvarshney
+    password: pass@123

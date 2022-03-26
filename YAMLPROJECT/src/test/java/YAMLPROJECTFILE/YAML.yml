@@ -1,0 +1,2 @@
+link: "https://example.testproject.io/web/"
+text: "//p[text()='This is the TestProject playground website. Feel free to play around it :)']"

@@ -1,0 +1,45 @@
+radioButton: 
+   bmw: "#bmwradio"
+   benz: "#benzradio"
+   honda: "#hondaradio"
+selectClass: 
+   carSelect: "#carselect"
+   bmw: "option[value='bmw']"
+   benz: "option[value='benz']"
+   honda: "option[value='honda']"
+multipleSelect: 
+   apple: "option[value='apple']"
+   orange: "option[value='orange']"
+   peach: "option[value='peach']"
+checkboxSelect: 
+   bmw: "#bmwcheck"
+   benz: "#benzcheck"
+   honda: "#hondacheck"
+switchWindow: 
+   openWindow: "#openwindow"
+   title: ".dynamic-heading.margin-bottom-20"
+   selectCourse: "//h4[contains(text(),'JavaScript for beginners')]"
+switchTab: 
+   openTab: "#opentab"
+switchToAlert: 
+   enterName: "#name.inputs"
+   alert: "#alertbtn"
+   confirm: "#confirmbtn"
+enabled/Disabled: 
+   input: "#enabled-example-input"
+   enable: "#enabled-button"
+   disable: "#disabled-button"
+elementDisplayed: 
+   input: "#displayed-text"
+   hide: "#hide-textbox"
+   show: "#show-textbox"
+mouseHover: 
+   button: "#mousehover"
+   top: "a[href='#top']"
+   reload: "//a[text()='Reload']"
+iframe: 
+   input: "input[placeholder='Search Course']"
+   search: ".find-course.search-course"
+   selectCourse: "//h4[contains(text(),'JavaScript for beginners')]"
+   courseTitle: "//h1[text()='JavaScript for beginners']" 
+ 

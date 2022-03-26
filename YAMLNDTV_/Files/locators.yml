@@ -1,0 +1,11 @@
+more_id: "#h_sub_menu"
+weather_xpath: "//a[text()=\"WEATHER\"]"
+weatherPage:
+   searchBox_xpath: "//input[@id=\"searchBox\"]"
+   degree_xpath: "(//span/b[contains(text(),\"Temp\")])[1]"
+   fahrenheit_xpath: "(//span/b[contains(text(),\"Temp\")])[2]"
+requiredCities: 
+   - Ajmer
+   - Aligarh
+   - Bhopal
+   - Srinagar
